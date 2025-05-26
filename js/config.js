@@ -82,23 +82,21 @@ var l_bgDarkening = 50;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
-var l_music = true;
+var l_music = false;
 
 /*Display actual song's name?*/
-var l_musicDisplay = true;
+var l_musicDisplay = false;
 
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
-var l_musicPlaylist = [
-	{youtube: "Gu3u1kMXO9U", name: "LaOrdenRP"}
-];
+var l_musicPlaylist = [];
 
 /*Random music order?*/
 var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 25;
+var l_musicVolume = 0;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
