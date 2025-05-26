@@ -50,25 +50,14 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/Abyss (1).jpg",
-	"backgrounds/images/Abyss (2).jpg",
-	"backgrounds/images/Abyss (3).jpg",
-	"backgrounds/images/Abyss (4).jpg",
-	"backgrounds/images/Abyss (5).jpg",
-	"backgrounds/images/Abyss (6).jpg",
-	"backgrounds/images/Abyss (7).jpg",
-	"backgrounds/images/Abyss (8).jpg",
-	"backgrounds/images/Abyss (9).jpg",
-	"backgrounds/images/Abyss (10).jpg",
-	"backgrounds/images/Abyss (11).jpg",
-	"backgrounds/images/Abyss (12).jpg",
-	"backgrounds/images/Abyss (13).jpg",
-	"backgrounds/images/Abyss (14).jpg",
-	"backgrounds/images/Abyss (15).jpg",
-	"backgrounds/images/Abyss (16).jpg",
-	"backgrounds/images/Abyss (17).jpg",
-	"backgrounds/images/Abyss (18).jpg",
-	"backgrounds/images/Abyss (19).jpg"
+	"backgrounds/images/laorden(3).jpg",
+	"backgrounds/images/laorden(4).jpg",
+	"backgrounds/images/laorden(5).jpg",
+	"backgrounds/images/laorden(6).jpg",
+	"backgrounds/images/laorden(7).jpg",
+	"backgrounds/images/laorden(8).jpg",
+	"backgrounds/images/laorden(9).jpg",
+	"backgrounds/images/laorden(10).jpg"
 ];
 
 /*Random background images order?*/
@@ -101,7 +90,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "HZ3aNv8_-ZE", name: "AbyssRP"}
+	{youtube: "Gu3u1kMXO9U", name: "LaOrdenRP"}
 ];
 
 /*Random music order?*/
