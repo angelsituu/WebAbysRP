@@ -34,14 +34,14 @@ function DownloadingFile( fileName ) {
 	downloadedFiles++;
 	refreshProgress();
 
-	setStatus("Downloading files...");
+	setStatus("Descargando archios de La OrdenRP...");
 }
 
 function SetStatusChanged( status ) {
-	if (status.indexOf("Getting Addon #") != -1) {
+	if (status.indexOf("Obteniendo el complemento #") != -1) {
 		downloadedFiles++;
 		refreshProgress();
-	}else if (status == "Sending client info...") {
+	}else if (status == "Envío de información del cliente...") {
 		setProgress(100);
 	}
 
